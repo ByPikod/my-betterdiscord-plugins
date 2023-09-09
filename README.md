@@ -1,2 +1,2 @@
-# my-betterdiscord-plugins
+# My betterdiscord plugins
  My plugins
